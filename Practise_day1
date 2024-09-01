@@ -1,0 +1,7 @@
+def find(a,k):
+    a.sort(reverse=True)
+    return a[k-1]
+
+a=[3,2,1,5,6,4]
+k=2
+print(find(a,k))
