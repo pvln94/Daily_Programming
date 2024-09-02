@@ -1,1 +1,1 @@
-# Daily_Programming
+# Daily_Programming_Challenge_2024
