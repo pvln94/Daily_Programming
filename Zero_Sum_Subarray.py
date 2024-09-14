@@ -18,5 +18,5 @@ def find_subarrays_with_zero_sum(arr):
 
     return result
 
-arr = list(map(int, input("Enter the array elements separated by space: ").split()))
+arr = list(map(int, input().split()))
 print(find_subarrays_with_zero_sum(arr))
